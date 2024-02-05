@@ -293,12 +293,14 @@ body:not(.iOS) #lines * {
   transform-origin: 30em 8em;
 }
 
-/* Gallerie */
+/* Gallerie Mes Projets */
 
 .Fond-Galleries {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+
+    
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
@@ -726,7 +728,7 @@ footer {
     width: auto;
 }
 
-/* Presentation */
+/* Partie Presentation Acceuil */
 
 .Presentation {
     align-items: center;
@@ -748,7 +750,7 @@ footer {
     width: auto;
 }
 
-/* V_imprimable */
+/* Version imprimable */
 
 .Version {
     display: flex;
@@ -784,6 +786,7 @@ footer {
     justify-content: center;
 }
 
+/*I frame contact*/
 
 .I-frame-mon-adresse{
     margin-bottom: 30px;
