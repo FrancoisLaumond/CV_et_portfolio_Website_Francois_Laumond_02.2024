@@ -261,6 +261,7 @@ nav {
     object-fit: cover;
     margin: 0 auto;
     margin-top: 10vh;
+    overflow: hidden;
 
 }
 
