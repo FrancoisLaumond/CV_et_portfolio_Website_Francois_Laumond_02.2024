@@ -569,7 +569,7 @@ button::before {
 }
 
 .box-3 button div::before {
-    content: 'Antigachi';
+    content: 'A venir';
     position: relative;
     top: -44px;
     left: 3px;
@@ -583,7 +583,7 @@ button::before {
 }
 
 .box-4 button div::before {
-    content: 'Antigachi';
+    content: 'A venir';
     position: relative;
     top: -44px;
     left: -9px;
