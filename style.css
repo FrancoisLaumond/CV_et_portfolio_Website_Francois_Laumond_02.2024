@@ -736,8 +736,8 @@ footer {
 }
 
 .text_presentation {
-    text-align: justify;
     font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .h2_Presentation {
