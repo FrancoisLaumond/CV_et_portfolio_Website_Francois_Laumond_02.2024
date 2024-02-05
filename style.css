@@ -555,7 +555,7 @@ button::before {
 }
 
 .box-2 button div::before {
-    content: 'Antigachi';
+    content: 'CV Portfolio';
     position: relative;
     top: -44px;
     left: -6px;
