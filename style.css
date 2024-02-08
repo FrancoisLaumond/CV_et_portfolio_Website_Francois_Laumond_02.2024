@@ -569,7 +569,7 @@ button::before {
 }
 
 .box-3 button div::before {
-    content: 'A venir';
+    content: 'Illustration';
     position: relative;
     top: -44px;
     left: 3px;
